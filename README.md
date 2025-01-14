@@ -11,7 +11,9 @@ Categorized view for easier navigation (e.g., Web Design, Graphics, UI/UX).
 a)Project name and description.
 b)Technologies used.
 
-Resume Link - https://app.luminpdf.com/viewer/6786e8239ad3f59e830a5339
+Resume Link -  https://drive.google.com/file/d/1lUsDn4GWUXscNXRWjvob3vznBTI5OJUC/view?usp=sharing
+
+( If Not try this  -   https://app.luminpdf.com/viewer/6786e8239ad3f59e830a5339   )
 
 # Website Structure
 
