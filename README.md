@@ -24,7 +24,7 @@ Resume Link -  https://drive.google.com/file/d/1lUsDn4GWUXscNXRWjvob3vznBTI5OJUC
 5. Contact: A form or section to reach out to me, including my email, phone number, and social media links.
    
 
-## Running Tic-Tac-Toe:
+## Running Personal Portfolio Website 
 
 ```
 git clone [https://github.com/SpandanL96/Personal-Portfolio-Website.git]
@@ -32,6 +32,8 @@ git init
 git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/SpandanL96/Personal-Portfolio-Website.git
+open index.html
+view my portfolio 
 ```
 ## Contributing
 
